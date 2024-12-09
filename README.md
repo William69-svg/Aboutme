@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! Here's a little bit about me:
 
 ## 🌟 About Me
-- 💻 I'm a  specializing in [Cyber Security].
+- 💻 I'm a Cryptanalyst specializing in [Cyber Security].
 - 🌱 Currently learning [ACT - Academy of Cryptography Techniques].
 
 ## 🚀 My Skills
